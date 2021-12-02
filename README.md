@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/appneuroncompany](https://github.com/appneuroncompany)
 
-- 💬 Ask me about **Angular, .Net **  and ** Go**
+- 💬 Ask me about **Angular, .Net and Go**
 
 - 📫 How to reach me **burakhalefoglu@gmail.com**
 
