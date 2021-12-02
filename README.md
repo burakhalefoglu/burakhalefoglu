@@ -9,7 +9,7 @@
          width="460"  /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" 
-      height="200" width="500" /></p>
+      height="250" width="500" /></p>
  
 - 🔭 I’m currently working on [Appneuron Architecture](https://github.com/appneuroncompany)
 
