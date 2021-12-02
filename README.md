@@ -5,11 +5,9 @@
         
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="burakhalefoglu" /></a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
         height="200" width="350" /></p>
-        
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en" alt="burakhalefoglu" 
-               height="200" width="350" /></p>
+       
 
 
 - 🔭 I’m currently working on [Appneuron Architecture](https://github.com/appneuroncompany)
@@ -43,3 +41,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" 
          height="200" width="350" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en" alt="burakhalefoglu" 
+               height="200" width="350" /></p>
