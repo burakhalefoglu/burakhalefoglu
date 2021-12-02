@@ -36,7 +36,7 @@
         height="300" width="400" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en" alt="burakhalefoglu" 
-               height="350" width="450" /></p>
+               height="300" width="400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" 
          height="300" width="400" /></p>
