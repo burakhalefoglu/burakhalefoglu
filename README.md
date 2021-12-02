@@ -7,7 +7,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
-        height="200" width="300" /></p>
+        height="200" width="350" /></p>
         
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="burakhalefoglu" /></a> </p>
 
