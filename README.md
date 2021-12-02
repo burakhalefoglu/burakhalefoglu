@@ -43,4 +43,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" 
-         height="200" width="350" /></p>
+         height="350" width="700" /></p>
