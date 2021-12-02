@@ -8,7 +8,11 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en" alt="burakhalefoglu" 
-               height="200" width="500" /></p>
+              height="200" width="500" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 - 🔭 I’m currently working on [Appneuron Architecture](https://github.com/appneuroncompany)
 
