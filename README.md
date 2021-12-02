@@ -7,7 +7,7 @@
 
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en" alt="burakhalefoglu" 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" 
       height="200" width="500" /></p>
  
 - 🔭 I’m currently working on [Appneuron Architecture](https://github.com/appneuroncompany)
