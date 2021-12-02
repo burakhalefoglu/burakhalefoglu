@@ -34,9 +34,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" 
       height="200" width="500" /></p>
-      
+ 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
+         height="200" width="350"  /></p>
+         
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" 
          height="200" width="350" /></p>
          
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
-         height="200" width="350"  /></p>
+
