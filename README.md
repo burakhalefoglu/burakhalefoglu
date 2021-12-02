@@ -39,6 +39,6 @@
          height="200" width="350"  /></p>
          
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" 
-         height="200" width="350" /></p>
+         height="200" width="400" /></p>
          
 
