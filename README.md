@@ -6,7 +6,7 @@
  height="200" width="600"  /></a> </p>
 
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
-         width="450"  /></p>
+         width="475"  /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" 
       height="200" width="500" /></p>
