@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [https://github.com/appneuroncompany](https://github.com/appneuroncompany)
 
-- 👨‍💻 All of my projects are available at [https://github.com/appneuroncompany](https://github.com/appneuroncompany)
+- 👨‍💻 All of my projects are available at [https://github.com/appneuroncompany](https://github.com/appneuroncompany) and [https://github.com/burakhalefoglu](https://github.com/burakhalefoglu)
 
 - 💬 Ask me about **Angular, .Net and Go**
 
