@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am MMA Fighter :sunglasses:**
 
-- visit opensource project [lightlogger](https://github.com/appneuroncompany/light-logger) created by me
+- :grey_exclamation: Visit opensource project [lightlogger](https://github.com/appneuroncompany/light-logger) created by me
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
