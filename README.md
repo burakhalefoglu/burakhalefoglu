@@ -5,8 +5,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="burakhalefoglu" 
  height="200" width="600"  /></a> </p>
  
-- 🔭 I’m currently working on [Appneuron Architecture](https://github.com/appneuroncompany)
-
 - 🌱 I’m currently learning **Golang, Docker, Kubernetes and more...**
 
 - 🤝 I’m looking for help with [https://github.com/appneuroncompany](https://github.com/appneuroncompany)
