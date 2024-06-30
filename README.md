@@ -7,18 +7,14 @@
  height="200" width="600"  /></a> </p>
  
 - 🌱 I’m currently learning **Golang, Docker, Kubernetes and more...**
+- 
+- 👨‍💻 All of my projects are available at [https://github.com/burakhalefoglu?tab=repositories](https://github.com/burakhalefoglu?tab=repositories)
 
-- 🤝 I’m looking for help with [https://github.com/appneuroncompany](https://github.com/appneuroncompany)
-
-- 👨‍💻 All of my projects are available at [https://github.com/appneuroncompany](https://github.com/appneuroncompany) and [https://github.com/burakhalefoglu](https://github.com/burakhalefoglu)
-
-- 💬 Ask me about **Angular, .Net and Go**
+- 💬 Ask me about **Flutter, .Net and Docker&Kubernetes**
 
 - 📫 How to reach me **burakhalefoglu@gmail.com**
 
-- ⚡ Fun fact **I am MMA Fighter :sunglasses:**
-
-- :grey_exclamation: Visit opensource project [lightlogger](https://github.com/appneuroncompany/light-logger) created by me
+- :grey_exclamation: Visit opensource project [lightlogger](https://github.com/burakhalefoglu/light-logger) created by me
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
