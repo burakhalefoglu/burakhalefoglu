@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak Halefoğlu</h1>
 <h3 align="center">Project manager and Full-stack software developer from Turkey.</h3>
-<h3 align="center"> contributors of  <a href="https://github.com/DevArchitecture">DevArchitecture</a> </h3>
+<h3 align="center"> Contributors of  <a href="https://github.com/DevArchitecture">DevArchitecture</a> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhalefoglu&label=Profile%20views&color=0e75b6&style=flat" alt="burakhalefoglu" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="burakhalefoglu" 
