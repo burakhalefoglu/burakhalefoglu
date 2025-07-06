@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba! Ben Burak Halefoğlu</h1>
+<h1 align="center">👋 Hi! I'm Burak Halefoğlu</h1>
 
 <h3 align="center">Remote Backend & Full-stack Developer | Project Manager</h3>
 
@@ -10,55 +10,55 @@
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🎓 Bilişim Teknolojileri yüksek lisans derecesine sahibim.
-- 🏗️ 5+ yıllık yazılım geliştirme, mikroservis, full-stack geliştirme tecrübem var.
-- 🧩 .NET, Python, Flutter kullanarak backend API, veri işleme scriptleri ve mobil arayüz çözümleri geliştiriyorum.
-- ⚙️ Açık kaynak projelere katkı sunuyorum → [DevArchitecture](https://github.com/DevArchitecture).
-- 🌍 Şu anda **global remote .NET, Python & Flutter projelerinde** aktif görev alacak fırsatlar arıyorum.
+- 🎓 MSc in Information Technologies.
+- 🏗️ 5+ years of experience in software development, microservices and full-stack projects.
+- 🧩 I develop backend APIs, data processing scripts and mobile UIs with **.NET, Python and Flutter**.
+- ⚙️ Active contributor to open-source → [DevArchitecture](https://github.com/DevArchitecture).
+- 🌍 Currently open for **global remote .NET, Python & Flutter projects**.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Tech Stack
 
 - **Backend:** C#, Python, Node.js
 - **Frontend & Mobile:** Angular, Flutter
 - **DevOps:** Docker, Kubernetes, Jenkins, Nginx, Grafana, Kafka
-- **Veritabanları:** PostgreSQL, MongoDB, Redis, Cassandra
-- **Diğer:** Microservices, IoC, AOP, OOP, Agile
+- **Databases:** PostgreSQL, MongoDB, Redis, Cassandra
+- **Other:** Microservices, IoC, AOP, OOP, Agile
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 📌 Featured Projects
 
 - 🔹 [DevArchitecture](https://github.com/DevArchitecture) → Rapid Application Framework (.NET)
-- 🔹 [Investpy](https://github.com/burakhalefoglu/investpy) → Investing.com veri çekme paketi (Python)
-- 🔹 [Tefas-crawler](https://github.com/burakhalefoglu/tefas-crawler) → Türkiye TEFAS fon verisi crawler (Python)
-- 🔹 [Fintech Dashboard UI](https://github.com/burakhalefoglu/fintech_dashboard_clone) → Flutter UI demo
-- 🔹 [WarOfToys](https://github.com/burakhalefoglu/WarOfToys) → Unity oyun örneği
-- 🔹 [LightLogger](https://github.com/burakhalefoglu/light-logger) → Konsol loglama aracı (eski, opsiyonel)
+- 🔹 [Investpy](https://github.com/burakhalefoglu/investpy) → Python package to pull financial data from Investing.com
+- 🔹 [Tefas-crawler](https://github.com/burakhalefoglu/tefas-crawler) → TEFAS (Turkish Fund Platform) data crawler (Python)
+- 🔹 [Fintech Dashboard UI](https://github.com/burakhalefoglu/fintech_dashboard_clone) → Flutter UI demo for finance apps
+- 🔹 [WarOfToys](https://github.com/burakhalefoglu/WarOfToys) → Unity game demo
+- 🔹 [LightLogger](https://github.com/burakhalefoglu/light-logger) → Console logger tool (legacy)
 
-🔗 Daha fazla proje → [GitHub Repos](https://github.com/burakhalefoglu?tab=repositories)
+🔗 See more → [GitHub Repos](https://github.com/burakhalefoglu?tab=repositories)
 
 ---
 
 ## 📺 YouTube & 📚 Blog
 
-- **YouTube:** DevArchitecture, Docker altyapısı, Flutter & Python geliştirme → *Düzenli teknik videolar*
-- **Medium:** Teknik makaleler → [Medium Profilim](https://medium.com/@burakhalefoglu)
+- **YouTube:** Weekly videos about DevArchitecture, Docker, Flutter & Python development.
+- **Medium:** Technical articles → [My Medium](https://medium.com/@burakhalefoglu)
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 - 📧 [burakhalefoglu@gmail.com](mailto:burakhalefoglu@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/burakhalefoglu)
-- 🌐 [Kişisel Web Sitem](https://burakhalefoglu.com)
+- 🌐 [My Website](https://burakhalefoglu.com)
 
 ---
 
-## ⚡ Sosyal Bağlantılar
+## ⚡ Social Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/burakhalefoglu" target="blank">
@@ -74,9 +74,14 @@
 
 ---
 
-## 📊 İstatistikler
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="burakhalefoglu" 
- height="800" width="800"  /></a> </p>
+## 📊 Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="burakhalefoglu" height="800" width="800" />
+  </a>
+</p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" height="200" width="500" />
 </p>
@@ -91,4 +96,4 @@
 
 ---
 
-**🚀 Remote .NET, Python & Flutter projeleri için iletişime geçin!**
+**🚀 Open for remote .NET, Python & Flutter projects!**
