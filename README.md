@@ -1,8 +1,8 @@
 <h1 align="center">👋 Merhaba! Ben Burak Halefoğlu</h1>
 
-<h3 align="center">Remote Backend & Automation Developer | Project Manager | Full-stack Geliştirici</h3>
+<h3 align="center">Remote Backend & Full-stack Developer | Project Manager</h3>
 
-<h4 align="center">📌 <a href="https://github.com/DevArchitecture">DevArchitecture Contributor</a> | .NET, Go, Docker, Kurumsal Yazılım</h4>
+<h4 align="center">📌 <a href="https://github.com/DevArchitecture">DevArchitecture Contributor</a> | .NET, Python, Flutter, Docker</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=burakhalefoglu&label=Profile%20views&color=0e75b6&style=flat" alt="burakhalefoglu" />
@@ -13,17 +13,17 @@
 ## 🚀 Hakkımda
 
 - 🎓 Bilişim Teknolojileri yüksek lisans derecesine sahibim.
-- 🏗️ 5+ yıllık yazılım geliştirme, mikroservis tecrübem var.
-- 🧩 Şirketler için **Yakıt Takip, Sigorta Takip, Operasyon Takip, Harcırah Hesaplama** gibi Excel ve yazılım tabanlı kurumsal proje çözümleri geliştiriyorum.
-- ⚙️ Açık kaynak projelerde katkı sunuyorum → [DevArchitecture](https://github.com/DevArchitecture).
-- 🌍 Şu anda **global remote .NET & Go backend developer** projelerinde yer almak istiyorum.
+- 🏗️ 5+ yıllık yazılım geliştirme, mikroservis, full-stack geliştirme tecrübem var.
+- 🧩 .NET, Python, Flutter kullanarak backend API, veri işleme scriptleri ve mobil arayüz çözümleri geliştiriyorum.
+- ⚙️ Açık kaynak projelere katkı sunuyorum → [DevArchitecture](https://github.com/DevArchitecture).
+- 🌍 Şu anda **global remote .NET, Python & Flutter projelerinde** aktif görev alacak fırsatlar arıyorum.
 
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
 
-- **Backend:** C#, Go, Python, Node.js
-- **Frontend:** Angular, Flutter
+- **Backend:** C#, Python, Node.js
+- **Frontend & Mobile:** Angular, Flutter
 - **DevOps:** Docker, Kubernetes, Jenkins, Nginx, Grafana, Kafka
 - **Veritabanları:** PostgreSQL, MongoDB, Redis, Cassandra
 - **Diğer:** Microservices, IoC, AOP, OOP, Agile
@@ -32,21 +32,21 @@
 
 ## 📌 Öne Çıkan Projeler
 
-- 🔹 [DevArchitecture](https://github.com/DevArchitecture) → Rapid Application Framework
+- 🔹 [DevArchitecture](https://github.com/DevArchitecture) → Rapid Application Framework (.NET)
 - 🔹 [Investpy](https://github.com/burakhalefoglu/investpy) → Investing.com veri çekme paketi (Python)
-- 🔹 [Tefas-crawler](https://github.com/burakhalefoglu/tefas-crawler) → Türkiye fon verisi crawler
-- 🔹 [LightLogger](https://github.com/burakhalefoglu/light-logger) → Go tabanlı konsol loglama
-- 🔹 [WarOfToys](https://github.com/burakhalefoglu/WarOfToys) → Unity oyun örneği
+- 🔹 [Tefas-crawler](https://github.com/burakhalefoglu/tefas-crawler) → Türkiye TEFAS fon verisi crawler (Python)
 - 🔹 [Fintech Dashboard UI](https://github.com/burakhalefoglu/fintech_dashboard_clone) → Flutter UI demo
+- 🔹 [WarOfToys](https://github.com/burakhalefoglu/WarOfToys) → Unity oyun örneği
+- 🔹 [LightLogger](https://github.com/burakhalefoglu/light-logger) → Konsol loglama aracı (eski, opsiyonel)
 
-Tüm projelerim için: [GitHub Repos](https://github.com/burakhalefoglu?tab=repositories)
+🔗 Daha fazla proje → [GitHub Repos](https://github.com/burakhalefoglu?tab=repositories)
 
 ---
 
-## 📣 Yeni Video & Blog
+## 📺 YouTube & 📚 Blog
 
-- 📺 **YouTube**: Kurumsal Docker altyapısı, DevArchitecture → *Her hafta yeni içerik*
-- ✍️ **Medium:** Teknik makaleler → [Medium Profilim](https://medium.com/@burakhalefoglu)
+- **YouTube:** DevArchitecture, Docker altyapısı, Flutter & Python geliştirme → *Düzenli teknik videolar*
+- **Medium:** Teknik makaleler → [Medium Profilim](https://medium.com/@burakhalefoglu)
 
 ---
 
@@ -91,4 +91,4 @@ Tüm projelerim için: [GitHub Repos](https://github.com/burakhalefoglu?tab=repo
 
 ---
 
-**🚀 Remote backend projeleri için iletişime geçmekten çekinmeyin!**
+**🚀 Remote .NET, Python & Flutter projeleri için iletişime geçin!**
