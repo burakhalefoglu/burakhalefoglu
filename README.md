@@ -1,40 +1,93 @@
-<h1 align="center">Hi 👋, I'm Burak Halefoğlu</h1>
-<h3 align="center">Project manager and Full-stack software developer from Turkey.</h3>
-<h3 align="center"> Contributors of  <a href="https://github.com/DevArchitecture">DevArchitecture</a> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakhalefoglu&label=Profile%20views&color=0e75b6&style=flat" alt="burakhalefoglu" /> </p>
+<h1 align="center">👋 Merhaba! Ben Burak Halefoğlu</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="burakhalefoglu" 
- height="800" width="800"  /></a> </p>
- 
-- 🌱 I’m currently learning **Golang, Docker, Kubernetes and more...**
-- 
-- 👨‍💻 All of my projects are available at [https://github.com/burakhalefoglu?tab=repositories](https://github.com/burakhalefoglu?tab=repositories)
+<h3 align="center">Remote Backend & Automation Developer | Project Manager | Full-stack Geliştirici</h3>
 
-- 💬 Ask me about **Flutter, .Net and Docker&Kubernetes**
+<h4 align="center">📌 <a href="https://github.com/DevArchitecture">DevArchitecture Contributor</a> | .NET, Go, Docker, Kurumsal Otomasyon</h4>
 
-- 📫 How to reach me **burakhalefoglu@gmail.com**
-
-- :grey_exclamation: Visit opensource project [lightlogger](https://github.com/burakhalefoglu/light-logger) created by me
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/burakhalefoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burakhalefoglu/" height="30" width="40" /></a>
-<a href="https://medium.com/@burakhalefoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@burakhalefoglu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=burakhalefoglu&label=Profile%20views&color=0e75b6&style=flat" alt="burakhalefoglu" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" 
-      height="200" width="500" /></p>
- 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu"
-         height="200" width="350"  /></p>
-         
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" 
-         height="200" width="400" /></p>
-         
+## 🚀 Hakkımda
 
+- 🎓 Bilişim Teknolojileri yüksek lisans derecesine sahibim.
+- 🏗️ 5+ yıllık yazılım geliştirme, mikroservis, otomasyon sistemleri tecrübem var.
+- 🧩 Şirketler için **Yakıt Takip, Sigorta Takip, Operasyon Takip, Harcırah Hesaplama** gibi Excel ve yazılım tabanlı otomasyon çözümleri geliştiriyorum.
+- ⚙️ Açık kaynak projelerde katkı sunuyorum → [DevArchitecture](https://github.com/DevArchitecture).
+- 🌍 Şu anda **global remote .NET & Go backend developer** projelerinde yer almak istiyorum.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+- **Backend:** C#, Go, Python, Node.js
+- **Frontend:** Angular, Flutter
+- **DevOps:** Docker, Kubernetes, Jenkins, Nginx, Grafana, Kafka
+- **Veritabanları:** PostgreSQL, MongoDB, Redis, Cassandra
+- **Diğer:** Microservices, IoC, AOP, OOP, Agile
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+- 🔹 [DevArchitecture](https://github.com/DevArchitecture) → Rapid Application Framework
+- 🔹 [Investpy](https://github.com/burakhalefoglu/investpy) → Investing.com veri çekme paketi (Python)
+- 🔹 [Tefas-crawler](https://github.com/burakhalefoglu/tefas-crawler) → Türkiye fon verisi crawler
+- 🔹 [LightLogger](https://github.com/burakhalefoglu/light-logger) → Go tabanlı konsol loglama
+- 🔹 [WarOfToys](https://github.com/burakhalefoglu/WarOfToys) → Unity oyun örneği
+- 🔹 [Fintech Dashboard UI](https://github.com/burakhalefoglu/fintech_dashboard_clone) → Flutter UI demo
+
+Tüm projelerim için: [GitHub Repos](https://github.com/burakhalefoglu?tab=repositories)
+
+---
+
+## 📣 Yeni Video & Blog
+
+- 📺 **YouTube**: Kurumsal Docker altyapısı, DevArchitecture & otomasyon çözümleri → *Her hafta yeni içerik*
+- ✍️ **Medium:** Teknik makaleler → [Medium Profilim](https://medium.com/@burakhalefoglu)
+
+---
+
+## 📫 İletişim
+
+- 📧 [burakhalefoglu@gmail.com](mailto:burakhalefoglu@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/burakhalefoglu)
+- 🌐 [Kişisel Web Sitem](https://burakhalefoglu.com)
+
+---
+
+## ⚡ Sosyal Bağlantılar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/burakhalefoglu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@burakhalefoglu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
+  <a href="https://burakhalefoglu.com" target="blank">
+    🌐 Website
+  </a>
+</p>
+
+---
+
+## 📊 İstatistikler
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" height="200" width="500" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" height="200" width="350" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=burakhalefoglu&" alt="burakhalefoglu" height="200" width="400" />
+</p>
+
+---
+
+**🚀 Remote backend projeleri için iletişime geçmekten çekinmeyin!**
