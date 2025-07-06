@@ -2,7 +2,7 @@
 
 <h3 align="center">Remote Backend & Automation Developer | Project Manager | Full-stack Geliştirici</h3>
 
-<h4 align="center">📌 <a href="https://github.com/DevArchitecture">DevArchitecture Contributor</a> | .NET, Go, Docker, Kurumsal Otomasyon</h4>
+<h4 align="center">📌 <a href="https://github.com/DevArchitecture">DevArchitecture Contributor</a> | .NET, Go, Docker, Kurumsal Yazılım</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=burakhalefoglu&label=Profile%20views&color=0e75b6&style=flat" alt="burakhalefoglu" />
@@ -13,8 +13,8 @@
 ## 🚀 Hakkımda
 
 - 🎓 Bilişim Teknolojileri yüksek lisans derecesine sahibim.
-- 🏗️ 5+ yıllık yazılım geliştirme, mikroservis, otomasyon sistemleri tecrübem var.
-- 🧩 Şirketler için **Yakıt Takip, Sigorta Takip, Operasyon Takip, Harcırah Hesaplama** gibi Excel ve yazılım tabanlı otomasyon çözümleri geliştiriyorum.
+- 🏗️ 5+ yıllık yazılım geliştirme, mikroservis tecrübem var.
+- 🧩 Şirketler için **Yakıt Takip, Sigorta Takip, Operasyon Takip, Harcırah Hesaplama** gibi Excel ve yazılım tabanlı kurumsal proje çözümleri geliştiriyorum.
 - ⚙️ Açık kaynak projelerde katkı sunuyorum → [DevArchitecture](https://github.com/DevArchitecture).
 - 🌍 Şu anda **global remote .NET & Go backend developer** projelerinde yer almak istiyorum.
 
@@ -45,7 +45,7 @@ Tüm projelerim için: [GitHub Repos](https://github.com/burakhalefoglu?tab=repo
 
 ## 📣 Yeni Video & Blog
 
-- 📺 **YouTube**: Kurumsal Docker altyapısı, DevArchitecture & otomasyon çözümleri → *Her hafta yeni içerik*
+- 📺 **YouTube**: Kurumsal Docker altyapısı, DevArchitecture → *Her hafta yeni içerik*
 - ✍️ **Medium:** Teknik makaleler → [Medium Profilim](https://medium.com/@burakhalefoglu)
 
 ---
