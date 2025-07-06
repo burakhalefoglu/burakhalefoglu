@@ -75,7 +75,8 @@ Tüm projelerim için: [GitHub Repos](https://github.com/burakhalefoglu?tab=repo
 ---
 
 ## 📊 İstatistikler
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakhalefoglu&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="burakhalefoglu" 
+ height="800" width="800"  /></a> </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakhalefoglu&show_icons=true&locale=en&layout=compact" alt="burakhalefoglu" height="200" width="500" />
 </p>
